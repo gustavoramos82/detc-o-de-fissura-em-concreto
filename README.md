@@ -57,7 +57,7 @@ Observando a função perda e acurácia durante o treinamento, podemos observar,
 A partir disso, aplicação do modelo depende do cenário que queremos aplicar, inbclusive utilizar esses modelos como base de outros modeo mais robustos de segmentação semântica , por exemplo
 
 - Se for pela acurácia, o DenseNet121 seria o melhor caso
-- Se for para da repost mais rápida, o Mobilenet ou o VGG16 seria a melhor opção
+- Se for para da reposta mais rápida, o Mobilenet ou o VGG16 seria a melhor opção
 - Se for o meio termo o ResNet50 seria a melhor opção
 
 
