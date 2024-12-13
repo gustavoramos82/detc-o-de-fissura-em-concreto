@@ -54,7 +54,7 @@ Observando a função perda e acurácia durante o treinamento, podemos observar,
 - O modelo que teve o melhor desempenho foi DenseNet121, mais foi o que demorou mais para o treino e fazer a inferências dos resultados no conjunto teste
 - O MobileNet foi o mais rápido dentre todos, mas foi o que teve o menor desempenho, mas podemos melhorar seus parametros para melhorar o seu desempenho, tornando um modelo que seja eficiente e com uma boa perfomace
 
-A partir disso, aplicação do modelo depende do cenário que queremos aplicar, inbclusive utilizar esses modelos como base de outros modeo mais robustos de segmentação semântica , por exemplo
+A partir disso, aplicação do modelo depende do cenário que queremos aplicar, inbclusive utilizar esses modelos como base de outros modeo mais robustos de segmentação semântica , por exemplo, sendo que poderia ter utilizado um critério de parada em que o modelo restaurasse o seu desempenho para a época que teve a melhor perfomace durante o treinamento
 
 - Se for pela acurácia, o DenseNet121 seria o melhor caso
 - Se for para da reposta mais rápida, o Mobilenet ou o VGG16 seria a melhor opção
