@@ -60,4 +60,4 @@ A partir disso, aplicação do modelo depende do cenário que queremos aplicar, 
 - Se for para da reposta mais rápida, o Mobilenet ou o VGG16 seria a melhor opção
 - Se for o meio termo o ResNet50 seria a melhor opção
 
-
+Mas poderia rodar o modelo outras vezes para verificar se o MobileNet, por exemplo, teria um desempenho melhor e avliar melhor os resultados
